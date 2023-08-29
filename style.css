@@ -25,18 +25,10 @@ div{
     text-align: center;
 }
 
-#vote{
-    padding:1%;
-    background-color: green;
-    border:1px solid white;
-    color:white;
-    border-radius:5px;
-}
-
-.hidden{
-    display:none;
-}
-
-#pinpoll{
-    margin-top:3%;
+.poll{
+    margin-top: 3%;
+    width:50%;
+    text-align: center;
+    position: relative;
+    left:25%;
 }
